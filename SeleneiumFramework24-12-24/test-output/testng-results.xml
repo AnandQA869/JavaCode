@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-24T22:35:34 IST" name="Default suite" finished-at="2024-12-24T22:35:34 IST" duration-ms="156">
+    <groups>
+    </groups>
+    <test started-at="2024-12-24T22:35:34 IST" name="Default test" finished-at="2024-12-24T22:35:34 IST" duration-ms="156">
+      <class name="BaseTest.login_123">
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+        <test-method signature="fun2()[pri:0, instance:BaseTest.login_123@2a7f1f10]" started-at="2024-12-24T22:35:34 IST" name="fun2" finished-at="2024-12-24T22:35:34 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fun2 -->
+      </class> <!-- BaseTest.login_123 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
